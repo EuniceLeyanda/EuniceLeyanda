@@ -2,7 +2,8 @@
 - 👀 I’m interested in creating applications which makes me really happy
 - 🌱 I’m currently learning to become a full-stack MEAN/MERN developer
 - 💞️ I’m looking to collaborate on any web applications using MEAN/MERN
-- Interested in DevOps and AWS Cloud services
+- Interested in DevOps and AWS
+- Interested to learn new things at opportunity available
 - 📫 How to reach me at euniceleyanda1996@gmail.com
 
 <!---
